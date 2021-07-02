@@ -4,7 +4,7 @@ import java.lang.reflect.InvocationHandler
 import java.lang.reflect.Method
 import java.lang.reflect.Proxy
 
-
+//https://www.jianshu.com/p/9bcac608c714 动态代理这篇文章讲的很好
 fun main(args: Array<String>) {
     val myHello = MyHello()
 

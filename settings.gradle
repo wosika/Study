@@ -2,3 +2,4 @@ rootProject.name = "Study"
 include ':1_proxy'
 include ':2_proxyinject'
 include ':3_daggerDemo'
+include ':4_http_base'
